@@ -1,5 +1,5 @@
 (function main() {
-	/* @Aero#1420 - don't skid my shit */
+	/* Nolifer__/Wize - don't skid my shit */
 
 	if (location.search === '?vanilla') {
 		return;
